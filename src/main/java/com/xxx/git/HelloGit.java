@@ -10,6 +10,7 @@ public class HelloGit {
 		System.out.println("主干");
 		System.out.println("分支");
 		System.out.println("本地修改");
+		System.out.println("线上修改版");
 	}
 
 }
